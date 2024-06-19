@@ -1,4 +1,6 @@
-## Hi there 👋
+## u-genuine 👋
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdbwls613)](https://solved.ac/qkrdbwls613/)
 
 <!--
 **u-genuine/u-genuine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
