@@ -67,7 +67,15 @@
       <td>
         밈 메이커 - 그림판 클론코딩
       </td>
-      <td>2023/12/28 → 2024/01/13</td>
+      <td>2023.08 → 2023.08</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/u-genuine/chrome-clone"><img src="https://github.com/user-attachments/assets/2946a8b5-ae56-4dd5-bc5f-79d985edf86d" width="50"/></a></td>
+      <td><a href="https://u-genuine.github.io/chrome-clone/">Chrome clone</a></td>
+      <td>
+        크롬 클론코딩
+      </td>
+      <td>2023.07 → 2023.07</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/u-genuine/kokoa-clone-2023"><img src="https://github.com/user-attachments/assets/b9f55919-6aff-4f96-b6e8-f8e64d55f246" width="50"/></a></td>
@@ -75,7 +83,7 @@
       <td>
         카카오톡 클론코딩 (UI)
       </td>
-      <td>2023/05/29 → 2023/07/19</td>
+      <td>2023/07 ~ 2023.07</td>
     </tr>
   </table>
 </div>
