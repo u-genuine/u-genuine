@@ -70,7 +70,7 @@
       <td>2023.08 ~ 2023.08</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/u-genuine/chrome-clone"><img src="https://github.com/user-attachments/assets/2946a8b5-ae56-4dd5-bc5f-79d985edf86d" width="50"/></a></td>
+      <td align="center"><a href="https://github.com/u-genuine/chrome-clone"><img src="https://github.com/user-attachments/assets/9c56159d-4376-47cf-8a93-4ab6ae52f79b" width="50"/></a></td>
       <td><a href="https://u-genuine.github.io/chrome-clone/">Chrome clone</a></td>
       <td>
         크롬 클론코딩
