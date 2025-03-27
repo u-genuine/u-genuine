@@ -37,7 +37,6 @@
 *HTML, CSS, JavaScript로 UI 및 기능 구현*  
 [GitHub](https://github.com/u-genuine/meme-maker) | [배포 링크](https://u-genuine.github.io/meme-maker/)
 
-
 **Chrome clone** (2023.07)  
 크롬 클론코딩  
 *HTML, CSS, JavaScript로 UI 및 기능 구현*  
@@ -75,9 +74,10 @@
 
 <br>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-genuine&exclude_repo=yasim&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
 <a href="https://github.com/u-genuine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=u-genuine&show_icons=true&theme=nord" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=u-genuine&show_icons=true&theme=gotham" />
 </a>
 
 
